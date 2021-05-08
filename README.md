@@ -1,7 +1,7 @@
 # rc_sqlite3_DF
 
 # Description
-Some useful functions to connect between Pandas dataframes and sqlite3, both ways, as well as some standalone handy dataframe functions to do basic filtering, info, find similar columns of two dataframes, and find the the given percentile of all numeric dtype columns. For SQLite3 a function that automatically creates a CREATE TABLE query that builds out the dtypes based on the input dataframe.
+Useful functions to connect between Pandas dataframes and sqlite3, both ways, as well as some standalone handy dataframe functions to do basic filtering, info, find similar columns of two dataframes, and find the the given percentile of all numeric dtype columns. For SQLite3 a function that automatically creates a CREATE TABLE query that builds out the dtypes based on the input dataframe.
 
 # Installation
 Use the package manager pip to install rc_assign_2021_sloan.
